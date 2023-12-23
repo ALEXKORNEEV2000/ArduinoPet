@@ -29,6 +29,11 @@
 https://drive.google.com/file/d/123HI_0JTGXV3K-wz2y43SDjr4D_inx7d/view?usp=sharing
 
 
+Аккуратный вариант ( расположили плату с боку  ) 
+
+https://drive.google.com/file/d/1Q8ES46cwIMaKRLm-hqBax3EypEyOd7JF/view?usp=sharing
+
+
 
 **Программный код**
 
