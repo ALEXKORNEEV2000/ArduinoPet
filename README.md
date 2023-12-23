@@ -46,7 +46,7 @@ if (kek_stage == HIGH) {
 servo.write(180); //поворот на 180 
 }
 delay (2000); // задержка 
-else [ servo.write (360)
+else  servo.write (360)
       }
     }
 }
