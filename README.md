@@ -22,6 +22,14 @@
 ![готовая](https://github.com/ALEXKORNEEV2000/ArduinoPet/assets/85906021/55e2b588-5f80-4cb1-945f-a732a8480ff0)
 
 
+
+
+Видео процесса работы устройства 
+
+https://drive.google.com/file/d/123HI_0JTGXV3K-wz2y43SDjr4D_inx7d/view?usp=sharing
+
+
+
 **Программный код**
 
 ``` Arduino 
