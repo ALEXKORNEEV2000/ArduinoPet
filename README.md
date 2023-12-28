@@ -68,6 +68,29 @@ else  servo.write (360)
 
 Теперь кормушка будет работать пока нажата кнопка и перестанен работать , если кнопка не будет зажата 
 
+**Программный код**
+
+``` Arduino 
+#include <Servo. h>
+Servo servo;
+int button pin = 2;
+int buttonState = HIGH; // Изначальное состояние кнопки (не нажата)
+void setup() f
+pinMode (button pin, INPUT PULLUP);
+servo. attach (10);
+servo.write(0); // Устанавливаем исходную позицию сервопривода
+void loop() f
+buttonState = digitalRead(button _pin) ;
+if (buttonState == HIGH) { // Если кнопка не нажата
+while (buttonState == HIGH) {
+servo.write(90);
+// Поворачиваем сервопривод до 90 прадусов
+}
+buttonState = digitalRead(button pin); // Проверяем состояние кнопки
+servo.write(0); // Возвращаем сервопривод в исходное положение
+}
+}
+```
 Концепция выдачи конфет :
 
 Конфеты выдаются за оценки студента.
