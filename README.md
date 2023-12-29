@@ -118,6 +118,9 @@ servo.write(0); // Возвращаем сервопривод в исходно
 https://drive.google.com/file/d/1cbu5xKl6hedGNtI60zND7aVAYbMbZI09/view?usp=sharing
 
 
+Итог сборки 
+
+![photo_2023-12-29_11-41-08](https://github.com/ALEXKORNEEV2000/ArduinoPet/assets/85906021/58a5a089-66e9-43ac-a1aa-125eabe1a221)
 
 
 
